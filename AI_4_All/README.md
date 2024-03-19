@@ -199,7 +199,65 @@ Let's create an engaging and interactive prompt using the Game Play Pattern for 
 
 This prompt initiates an educational game where the student engages with the AI to solve clues related to historical landmarks. It's designed not only to make learning more engaging but also to encourage critical thinking, research skills, and a deeper appreciation for history and culture. By integrating gameplay elements with educational content, the experience becomes dynamic and memorable for the student.
 
-8. **Template Pattern**: Provides a specific output format or template the AI is expected to follow, ensuring that responses meet particular formatting or content requirements.
+## Template Pattern
+
+**Template Pattern**: Provides a specific output format or template the AI is expected to follow, ensuring that responses meet particular formatting or content requirements.
+
+Let's create a detailed prompt using the Template Pattern for a student who needs to write a research paper on renewable energy sources. The goal is to guide the AI to generate a structured outline that the student can use as a foundation for their paper. The template will ensure that the AI's response adheres to a specific format, including sections for an introduction, body paragraphs with key points about various renewable energy sources, and a conclusion. This approach helps the student organize their thoughts and research in a coherent and logical structure.
+
+---
+
+**Prompt for AI to Generate a Research Paper Outline on Renewable Energy Sources**
+
+*Dear AI, I am a high school student tasked with writing a research paper on renewable energy sources. To kickstart my paper, I need your help to create a detailed outline. This outline should follow a specific template to ensure it includes all necessary sections and subtopics related to renewable energy. Your assistance will provide a strong foundation for my research and writing process.*
+
+*Please generate an outline according to the following template:*
+
+1. **Introduction**
+   - Brief overview of renewable energy.
+   - Importance of renewable energy in today’s world.
+   - Thesis statement: The role of renewable energy sources in mitigating climate change and contributing to a sustainable future.
+
+2. **Body Paragraphs**
+   - **Solar Energy**
+     - Description and how it works.
+     - Advantages and challenges.
+     - Example of a country or region excelling in solar energy.
+   - **Wind Energy**
+     - Description and how it works.
+     - Advantages and challenges.
+     - Example of a country or region excelling in wind energy.
+   - **Hydropower**
+     - Description and how it works.
+     - Advantages and challenges.
+     - Example of a country or region excelling in hydropower.
+   - **Geothermal Energy**
+     - Description and how it works.
+     - Advantages and challenges.
+     - Example of a country or region excelling in geothermal energy.
+   - **Biomass Energy**
+     - Description and how it works.
+     - Advantages and challenges.
+     - Example of a country or region utilizing biomass energy effectively.
+
+3. **Comparative Analysis**
+   - Compare and contrast the efficiency, cost, and environmental impact of the mentioned renewable energy sources.
+
+4. **Future of Renewable Energy**
+   - Innovations on the horizon.
+   - Potential impact on global energy policies and economies.
+
+5. **Conclusion**
+   - Recap the importance of transitioning to renewable energy sources.
+   - Restate the thesis in the light of the evidence presented.
+   - Call to action for further research, policy development, and individual action towards renewable energy adoption.
+
+*Your guidance in structuring this outline will be invaluable to my research process and overall understanding of renewable energy sources. Thank you for helping me organize my thoughts and providing a clear direction for my paper.*
+
+---
+
+This prompt employs the Template Pattern to direct the AI in generating a structured outline that the student can follow for their research paper. It ensures that the AI's output meets specific content and formatting requirements, providing a comprehensive and organized framework on renewable energy sources. This approach not only aids in the student's research but also in developing their ability to structure complex information effectively.
+
 
 9. **Meta Language Creation Pattern**: Introduces a custom language or shorthand for communication, allowing users to convey complex instructions or requests more efficiently.
 
