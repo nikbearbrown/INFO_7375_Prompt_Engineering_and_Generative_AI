@@ -121,30 +121,70 @@ Does that make sense to you? If you want, I can also show you how a simple algor
 
 In this scenario, the AI assistant provides an analogy to help the student understand the abstract concept of algorithms by comparing it to a familiar activity, such as following a recipe. It also encourages further interaction, offering to deepen the explanation according to the student's interest and understanding.
 
-5. **Flipped Interaction Pattern**: Inverts the usual interaction model by having the AI ask the user questions to achieve a certain goal, promoting an interactive and guided experience.
+## Flipped Interaction Pattern
 
-6. **Game Play Pattern**: Creates an engaging and interactive game-related prompt that sets out a game's premise and rules, offering a fun and dynamic way to engage with the AI.
+- **Flipped Interaction Pattern**: Inverts the usual interaction model by having the AI ask the user questions to achieve a certain goal, promoting an interactive and guided experience.
 
-7. **Template Pattern**: Provides a specific output format or template the AI is expected to follow, ensuring that responses meet particular formatting or content requirements.
+   Let's craft a detailed prompt for a student using the Flipped Interaction Pattern. In this scenario, the AI acts as a career counselor to help the student explore potential career paths based on their interests, skills, and values. The goal is to engage the student in a thoughtful exploration process through a series of questions, thereby promoting a guided and interactive experience. This approach not only helps the student reflect on their career preferences but also models how to gather and analyze information for making informed decisions.
 
-8. **Meta Language Creation Pattern**: Introduces a custom language or shorthand for communication, allowing users to convey complex instructions or requests more efficiently.
+---
 
-9. **Recipe Pattern**: Guides the AI in providing a complete sequence of steps for achieving a task, filling in any missing steps and possibly identifying unnecessary ones.
+**Prompt for AI to Act as a Career Counselor Using the Flipped Interaction Pattern**
 
-10. **Alternative Approaches Pattern**: Encourages the exploration of different methods or wordings to accomplish a given task, facilitating creative and versatile problem-solving.
+*Welcome to your personalized career exploration session! As your AI Career Counselor, my role is to guide you through a series of questions designed to help you uncover potential career paths that align with your passions, skills, and values. Your responses will help us narrow down the vast world of possibilities to find a career that truly resonates with you.*
 
-11. **Ask for Input Pattern**: Engages the user by requesting specific types of input, enhancing the interactivity and personalized nature of the interaction.
+*Let's begin our journey with some foundational questions to understand your interests and preferences:*
 
-12. **Outline Expansion Pattern**: Generates and expands upon bullet point outlines based on user input, aiding in the organization and development of ideas.
+1. **Interest Exploration:**
+   - What subjects do you enjoy studying the most, and why?
+   - Can you name a project or assignment that you found particularly rewarding or enjoyable?
 
-13. **Menu Actions Pattern**: Sets up a menu-driven interaction where specific inputs trigger predefined actions, streamlining the process of navigating through tasks or requests.
+2. **Skill Assessment:**
+   - What skills do you believe you excel at, both academically and personally?
+   - Are there specific tasks or activities that you find easy or natural to do?
 
-14. **Fact Check List Pattern**: Ensures the AI generates a set of key facts related to its output, aiming to enhance the accuracy and reliability of the information provided.
+3. **Values Clarification:**
+   - What values are most important to you in a future career? (e.g., helping others, financial stability, creative expression)
+   - Can you think of any job roles or industries that you feel might align with these values?
 
-15. **Tail Generation Pattern**: Encourages the AI to repeat certain information or prompt the user for next actions at the end of its output, maintaining clarity and continuity in the interaction.
+4. **Lifestyle Considerations:**
+   - How do you envision your ideal work environment? (e.g., office setting, outdoors, remote work)
+   - What balance between work and personal life are you hoping to achieve?
 
-16. **Semantic Filter Pattern**: Applies filters to remove specified types of information from the AI's responses, addressing privacy concerns or focusing the content.
+5. **Long-Term Goals:**
+   - Where do you see yourself in 10 years? Consider not just your career, but also your life goals and aspirations.
 
-17. 1. **Helpful Assistant Pattern**: Establishes the AI as a helpful assistant committed to providing useful responses and avoiding negative outputs, including insults or derogatory language.
+*Based on your responses to these questions, I'll provide insights and suggest potential career paths that align with your interests, skills, and values. Remember, this is a starting point for exploration, and it's perfectly okay if your interests and goals evolve over time.*
+
+*Let's start with the first question: What subjects do you enjoy studying the most, and why?*
+
+---
+
+This prompt is structured to lead the student through a self-discovery process regarding their career preferences. It uses the Flipped Interaction Pattern by positioning the AI in an active role, asking questions to drive the interaction forward. This method not only helps the student articulate their thoughts and preferences but also ensures that the AI's responses are tailored to the student's individual needs and aspirations.
+
+
+7. **Game Play Pattern**: Creates an engaging and interactive game-related prompt that sets out a game's premise and rules, offering a fun and dynamic way to engage with the AI.
+
+8. **Template Pattern**: Provides a specific output format or template the AI is expected to follow, ensuring that responses meet particular formatting or content requirements.
+
+9. **Meta Language Creation Pattern**: Introduces a custom language or shorthand for communication, allowing users to convey complex instructions or requests more efficiently.
+
+10. **Recipe Pattern**: Guides the AI in providing a complete sequence of steps for achieving a task, filling in any missing steps and possibly identifying unnecessary ones.
+
+11. **Alternative Approaches Pattern**: Encourages the exploration of different methods or wordings to accomplish a given task, facilitating creative and versatile problem-solving.
+
+12. **Ask for Input Pattern**: Engages the user by requesting specific types of input, enhancing the interactivity and personalized nature of the interaction.
+
+13. **Outline Expansion Pattern**: Generates and expands upon bullet point outlines based on user input, aiding in the organization and development of ideas.
+
+14. **Menu Actions Pattern**: Sets up a menu-driven interaction where specific inputs trigger predefined actions, streamlining the process of navigating through tasks or requests.
+
+15. **Fact Check List Pattern**: Ensures the AI generates a set of key facts related to its output, aiming to enhance the accuracy and reliability of the information provided.
+
+16. **Tail Generation Pattern**: Encourages the AI to repeat certain information or prompt the user for next actions at the end of its output, maintaining clarity and continuity in the interaction.
+
+17. **Semantic Filter Pattern**: Applies filters to remove specified types of information from the AI's responses, addressing privacy concerns or focusing the content.
+
+18. 1. **Helpful Assistant Pattern**: Establishes the AI as a helpful assistant committed to providing useful responses and avoiding negative outputs, including insults or derogatory language.
 
 Each pattern is designed to refine and direct the interaction between users and LLMs, ensuring that the AI's responses are more aligned with the user's intentions and the context of the interaction.
