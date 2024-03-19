@@ -2,6 +2,8 @@
 
 The document outlines various prompt engineering patterns designed to guide interactions with large language models (LLMs) by specifying contextual statements that form the core ideas to be communicated in a prompt. These patterns aim to shape the model's responses in a helpful, accurate, and context-specific manner. Here are the key patterns discussed:
 
+## Persona Pattern
+
 - **Persona Pattern**: Directs the AI to act as a specific persona (e.g., a speech language pathologist) to perform a designated task, enhancing the interaction's relevance and specificity.
 
   Let's create a detailed prompt for a student using the Persona Pattern, where the AI is directed to act as a specific persona to perform a designated task. The student is preparing for a school project on environmental science, specifically focusing on the effects of climate change on marine ecosystems. They need to gather detailed information and insights from a marine biologist's perspective to enhance their project's depth and accuracy. Here's how the prompt could be structured:
