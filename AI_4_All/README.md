@@ -101,7 +101,25 @@ Prompt engineering patterns designed to guide interactions with large language m
 
 This prompt integrates the Persona Pattern by assigning the AI a specific role (marine biologist) and task (providing comprehensive information on climate change effects on marine ecosystems). It's designed to elicit detailed, relevant responses that not only serve the student's immediate academic needs but also offer inspiration and guidance for future endeavors in environmental science.
 
-4. **Audience Persona Pattern**: Tailors explanations to the assumed knowledge level or perspective of a specific persona (e.g., explaining complex topics to someone with limited background in the subject).
+## Audience Persona Pattern  
+
+ - **Audience Persona Pattern**: Tailors explanations to the assumed knowledge level or perspective of a specific persona (e.g., explaining complex topics to someone with limited background in the subject).
+
+   Sure! Here's a detailed prompt for an AI using the Audience Persona Pattern to assist a high school student, Jamie, who is just beginning to learn about computer science and is interested in understanding the concept of algorithms:
+
+---
+
+**AI Assistant**: Good morning, Jamie! I hear you’re diving into the world of computer science and want to grasp the concept of algorithms. Let’s think of an algorithm like a recipe in a cookbook. When you decide to bake a cake, the recipe gives you step-by-step instructions on what to do, right? Similarly, an algorithm is a set of instructions that tells a computer how to solve a problem or perform a task.
+
+For instance, let's say you have a playlist of your favorite songs, and you want them sorted alphabetically. An algorithm is like your friend who comes over and tells you: “Start from the first song, compare it with the next one, and if it comes later in the alphabet, swap them. Keep doing this for each pair of songs until the whole list is in order.” That's what we call a sorting algorithm.
+
+Remember, just like some recipes are simpler or more complicated, algorithms can be simple or complex too. And the beauty of computer science is that you can often improve these “recipes” to make your computer tasks run faster and more efficiently.
+
+Does that make sense to you? If you want, I can also show you how a simple algorithm is written in a computer language. Just let me know!
+
+---
+
+In this scenario, the AI assistant provides an analogy to help the student understand the abstract concept of algorithms by comparing it to a familiar activity, such as following a recipe. It also encourages further interaction, offering to deepen the explanation according to the student's interest and understanding.
 
 5. **Flipped Interaction Pattern**: Inverts the usual interaction model by having the AI ask the user questions to achieve a certain goal, promoting an interactive and guided experience.
 
