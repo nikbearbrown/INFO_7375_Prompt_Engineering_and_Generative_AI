@@ -1,4 +1,4 @@
-# How to Speak Bot
+# How to Speak Bot - Prompt Patterns
 
 Prompt engineering is akin to developing a new way to communicate with computers, much like programming languages such as C++ enable us to instruct computers to perform specific tasks. However, the analogy reveals both similarities and distinctions between prompt engineering and more traditional, structured programming languages.
 
