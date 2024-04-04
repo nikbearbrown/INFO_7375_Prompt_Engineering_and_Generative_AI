@@ -48,15 +48,100 @@ This module delves into sophisticated methods for augmenting LLMs with vector da
 
 Detailed weekly breakdown covering an introduction to LLMs, advanced prompt engineering techniques, integration with vector databases and LangChain, fine-tuning strategies, and beyond.
 
+## Course Outline
+
+Note that the book "Prompt Engineering for Generative AI" by Nik Bear Brown covers far more than can be covered in a Semester course to the following is the typical material that is covered in a semester. However a given class may go faster or slower depending at its background and motivation.  
+
+### Week 1: Introduction to Large Language Models
+- Overview of Large Language Models (LLMs)
+- Randomness in LLM Outputs
+- Crafting Your First Prompts
+- Understanding Prompts
+- Introduction to Prompt Patterns
+- The Persona Pattern
+- Reading and Formatting Prompt Patterns
+
+### Week 2: Advanced Prompt Engineering
+- Prompts as Tools for Repeated Use
+- Advanced Prompt Patterns:
+  - Root Prompts
+  - Question Refinement
+  - Cognitive Verifier
+  - Audience Persona
+  - Flipped Interaction
+- Writing Effective Few-Shot Examples
+
+### Week 3: Advanced Prompt Techniques Continued
+- Expanding Prompt Strategies:
+  - Chain of Thought Prompting
+  - ReAct Prompting
+  - Using LLMs for Peer Grading
+- Combining Prompt Patterns:
+  - Game Play
+  - Template Creation
+  - Meta Language Creation
+  - Recipe and Alternative Approaches
+  - Input Solicitation
+  - Outline Expansion
+  - Menu Actions
+  - Fact Check Lists
+  - Tail Generation
+  - Semantic Filtering
+
+### Week 4: Understanding Large Language Models
+- Generative AI and LLMs: Foundations and Use Cases
+- Before Transformers: Evolution of Text Generation
+- Deep Dive into Transformer Architecture
+- Generating Text with Transformers
+- Prompt Engineering and Its Importance
+- Lifecycle of a Generative AI Project
+
+### Weeks 5 & 6: Integrating Vector Databases with LLMs
+- Introduction to Vector Databases
+- Embedding Textual Data for Vector Databases
+- Building Semantic Search Applications
+- Enhancing LLM Responses with Vector Database Queries
+
+### Weeks 7 & 8: Leveraging LangChain for Advanced LLM Applications
+- Getting to Know LangChain
+- Setting Up and Configuring LangChain
+- Developing LangChain Applications
+- Advanced Techniques and Best Practices in LangChain Use
+- Case Studies on LangChain Implementation
+
+### Weeks 9 & 10: Fine-Tuning and Configuring LLMs
+- Pre-training LLMs: Challenges and Scaling Laws
+- Instruction Fine-Tuning: Single and Multi-task Approaches
+- Reinforcement Learning in LLM-Powered Applications
+- Techniques for Parameter-Efficient Fine-Tuning (PEFT)
+
+### Weeks 11 & 12: Reinforcement Learning and LLM Applications
+- Reinforcement Learning and Its Application in LLMs
+- Aligning LLMs with Human Values
+- Detailed Look at RLHF: Feedback, Reward Models, Fine-tuning
+- Understanding Policy Optimization and Reward Hacking
+
+### Weeks 13 & 14: Deployment and Advanced Topics
+- Optimizing Models for Deployment
+- Utilizing LLMs in Real-World Applications
+- Integrating LLMs with External Applications
+- Advanced Deployment Strategies: PAL, ReAct, and LLM Architectures
+
+
 ## Course Materials
 
 ### Textbook
 
 - **Title**: "Prompt Engineering for Generative AI" by Nik Bear Brown
 - **Publisher**: Abecedarian, LLC
-- **Publication Date**: January 2023
+- **Publication Date**: May 2024
 - **ISBN**: [Insert ISBN here]
 
+- **Title**: "How to Speak Bot: Prompt Patterns" by Nik Bear Brown
+- **Publisher**: Abecedarian, LLC
+- **Publication Date**: May 2024
+- **ISBN**: [Insert ISBN here]
+- 
 ### Additional Readings
 
 Engage with academic papers, AI research reports, and articles specifically related to prompt engineering, fine-tuning techniques, and Generative AI.
