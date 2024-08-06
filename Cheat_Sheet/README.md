@@ -1,4 +1,4 @@
-### Cheat Sheet Outline for INFO 7375: Prompt Engineering for Generative AI
+### Cheat Sheet for INFO 7375: Prompt Engineering for Generative AI
 
 
 ### Cheat Sheet: Introduction to Large Language Models (LLMs)
