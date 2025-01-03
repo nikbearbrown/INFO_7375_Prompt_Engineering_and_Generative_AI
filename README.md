@@ -150,8 +150,9 @@ By the end of this course, you will not only be proficient in prompt engineering
 
 
 
-## INFO 7375 Prompt Engineering and Generative AI (Book)
+## INFO 7375 Prompt Engineering and Generative AI (Kindle Book)
 Table of Contents
+
 
 ### Introduction to Large Language Models
 
