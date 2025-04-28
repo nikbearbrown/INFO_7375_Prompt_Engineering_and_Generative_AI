@@ -148,7 +148,62 @@ Engage with academic papers, AI research reports, and articles specifically rela
 
 By the end of this course, you will not only be proficient in prompt engineering for Generative AI but also equipped with the skills to fine-tune LLMs, enabling you to harness the power of AI-driven creativity and problem-solving across diverse domains. Join us on this transformative journey into the realm of AI-driven content generation.
 
+Got it — thanks for the clarification.
 
+You're saying:
+
+- **If a student scores 80% or above**, **the grade is assigned *relatively* (curved)**, *not* by the absolute "94–100 = A" scale.
+- **If a student scores below 80%**, **then** the *absolute scale* (94–100 = A, etc.) is used to assign grades — **but they can only get a maximum of B-** if they are under 80%.
+
+Here’s the corrected and cleaner version based on that:
+
+---
+
+# Grading Policies
+
+A **point system** is used for grading. Every assignment, project, and exam you are expected to complete is assigned a point value, ranging from 1 to 1000 points.
+
+- **Late submissions** incur a **10% deduction per day**, rounded up.
+- **Exams** cannot be made up unless **prior arrangements** have been made.
+
+## Updated Grading Approach
+
+**Due to the widespread use of Generative AI,** grading is adjusted as follows:
+
+- **Students scoring 80% or higher (absolute scale)** will be graded **relatively** based on class performance:
+  - **Top 25%** (rounded to the nearest integer): **A**
+  - **Next 25%**: **A-**
+  - **Next 25%**: **B+**
+  - **Final 25%**: **B**
+
+- **Students scoring below 80% (absolute scale)** will be graded based on the **traditional absolute grading scale** below:
+
+| Score | Grade |
+|:-----:|:-----:|
+| 78–79 | C+ |
+| 73–77 | C |
+| 70–72 | C- |
+| 60–69 | D |
+| Below 60 | F |
+
+- **Important**: Students below 80% cannot earn a grade higher than B-, even if the relative curve would otherwise place them higher.
+
+## Notes
+- The instructor **reserves the right** to make minor adjustments for fairness.
+- Students are encouraged to complete all work independently and ethically, especially in light of Generative AI use.
+
+---
+
+### Quick Summary
+| Situation | Grading Method |
+|:---------:|:--------------:|
+| 80% and above | Curved: Top 25% get A, next 25% A-, etc. |
+| Below 80% | Fixed absolute scale (max B- or lower) |
+
+---
+
+Would you also like a super-brief one-paragraph version for the syllabus too, just in case?  
+It would be easy for students to read at a glance.
 
 ## INFO 7375 Prompt Engineering and Generative AI (Kindle Book)
 Table of Contents
