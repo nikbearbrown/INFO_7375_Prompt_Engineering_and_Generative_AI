@@ -2,6 +2,16 @@
 
 *Unleashing the power of Generative AI through effective prompting and intelligent agents*
 
+## Summer 2025 Schedule
+
+**Schedule:** Tuesday, Thursday  
+**Dates:** 05/05/2025 – 08/16/2025  
+**Type:** Class  
+
+**Time:** 01:30 PM – 03:10 PM  
+**Location:** Online Campus | Virtual Space – Online class | Room: ROOM  
+
+
 ## Course Overview
 This comprehensive course explores the art and science of crafting prompts for Large Language Models (LLMs) and developing intelligent AI agents. Students will master prompt engineering techniques, integration with vector databases, and the creation of agentic systems capable of reasoning, memory retention, and tool usage. The course balances theoretical foundations with practical applications across various domains.
 
