@@ -1,4 +1,6 @@
 # Midjourney Patterns: The Wizard of Oz Character Guide
+by Nik Bear Brown
+May 5, 2024
 
 ## Introduction
 
