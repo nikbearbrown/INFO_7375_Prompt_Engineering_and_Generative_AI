@@ -21,14 +21,14 @@ Let's explore how to use the Parameter Pattern with Wizard of Oz characters:
 
 **Photography Style with Parameters:**
 ```
-Young farm girl Dorothy Gale in blue gingham dress with ruby slippers, standing on yellow brick road, realistic photography, natural lighting, Kodak Portra 400 film, 85mm lens, shallow depth of field --ar 4:5 --stylize 100 --chaos 0 --v 5.2
+Young farm girl Dorothy Gale in blue gingham dress with ruby slippers, standing on yellow brick road, realistic photography, natural lighting, Kodak Portra 400 film, 85mm lens, shallow depth of field --ar 4:5 --stylize 100 --chaos 0 --v 7
 ```
 
 This prompt uses photography-specific parameters to create a realistic portrait with controlled stylization and aspect ratio.
 
 **Illustration Style with Parameters:**
 ```
-Dorothy Gale in blue gingham dress holding Toto, whimsical children's book illustration, colorful watercolor style, soft pastel colors, storybook quality --ar 1:1 --stylize 400 --chaos 20 --v 5
+Dorothy Gale in blue gingham dress holding Toto, whimsical children's book illustration, colorful watercolor style, soft pastel colors, storybook quality --ar 1:1 --stylize 400 --chaos 20 --v 7
 ```
 
 This uses illustration-specific parameters with increased stylization and some chaos for a more artistic interpretation.
@@ -37,14 +37,14 @@ This uses illustration-specific parameters with increased stylization and some c
 
 **Photography Style with Parameters:**
 ```
-Scarecrow character with straw hat and patched clothes, standing in Kansas wheat field, golden hour photography, documentary style, textural detail, Sony A7R IV, 35mm lens --ar 3:2 --stylize 50 --chaos 15 --v 5.2
+Scarecrow character with straw hat and patched clothes, standing in Kansas wheat field, golden hour photography, documentary style, textural detail, Sony A7R IV, 35mm lens --ar 3:2 --stylize 50 --chaos 15 --v 7
 ```
 
 The low stylization and specific camera reference create a more photorealistic documentary feel.
 
 **Illustration Style with Parameters:**
 ```
-Whimsical scarecrow character with straw hair, illustrated character design, pen and watercolor, vibrant autumn colors, children's book style --ar 2:3 --stylize 750 --chaos 30 --v 5
+Whimsical scarecrow character with straw hair, illustrated character design, pen and watercolor, vibrant autumn colors, children's book style --ar 2:3 --stylize 750 --chaos 30 --v 7
 ```
 
 Higher stylization and chaos values create a more interpretive, artistic illustration.
@@ -53,14 +53,14 @@ Higher stylization and chaos values create a more interpretive, artistic illustr
 
 **Photography Style with Parameters:**
 ```
-Silver metallic Tin Man character, art deco style, studio photography, polished chrome surface, dramatic studio lighting, high contrast black background, detailed texture --ar 4:5 --stylize 200 --chaos 0 --v 5.2
+Silver metallic Tin Man character, art deco style, studio photography, polished chrome surface, dramatic studio lighting, high contrast black background, detailed texture --ar 4:5 --stylize 200 --chaos 0 --v 7
 ```
 
 The specific lighting and texture details with moderate stylization create a dramatic photographic portrait.
 
 **Illustration Style with Parameters:**
 ```
-Heartless Tin Man character, retro comic book illustration, silver metallic body, blue line art, flat colors, vintage comic style --ar 2:3 --stylize 850 --chaos 25 --v 5
+Heartless Tin Man character, retro comic book illustration, silver metallic body, blue line art, flat colors, vintage comic style --ar 2:3 --stylize 850 --chaos 25 --v 7
 ```
 
 High stylization paired with specific art style references creates a distinct illustration style.
@@ -179,7 +179,7 @@ For even more control, we can combine both patterns into a comprehensive approac
 
 **Combined Approach:**
 ```
-Dorothy, Scarecrow, Tin Man and Lion from Wizard of Oz, detailed digital painting, fantasy adventure style, golden yellow lighting, vibrant rainbow color scheme, iconic character costumes, walking arm-in-arm pose, joyful hopeful expressions --ar 16:9 --stylize 500 --chaos 25 --v 5.2
+Dorothy, Scarecrow, Tin Man and Lion from Wizard of Oz, detailed digital painting, fantasy adventure style, golden yellow lighting, vibrant rainbow color scheme, iconic character costumes, walking arm-in-arm pose, joyful hopeful expressions --ar 16:9 --stylize 500 --chaos 25 --v 7
 ```
 
 This combined approach gives you both the structural consistency of a template and the technical control of specific parameters.
