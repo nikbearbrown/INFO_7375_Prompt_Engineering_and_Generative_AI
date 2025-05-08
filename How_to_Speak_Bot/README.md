@@ -72,9 +72,12 @@ The chapter structure follows a logical progression, starting with foundational 
 
 ## Chatbots & LLMs
 
+REDO
+
+At their core, AI models are systems designed to process inputs and generate outputs based on patterns they've learned. A language model specifically processes language inputs and produces various outputs like text, images, or code.
+
 Imagine you have a gigantic pile of LEGO blocks—so big that it fills up an entire football stadium. Now, think of each LEGO block as a word or a piece of a sentence from books, websites, songs, and conversations from all over the world. Large Language Models (LLMs) are like master LEGO builders, but instead of building spaceships and castles, they build sentences and stories. LLMs are a kind of smart computer program that learn how to use words by looking at this massive pile of LEGO-like words. They notice how words are usually put together to make sentences, like "The rhinoceros is standing upright clothed in a safari jacket." or how to answer questions like "Why is the sky blue?" They get so good at this that they can write a poem, explain math problems, or tell you a story—all by themselves!!!
 
-![Large Language Models (LLMs)](BotArt/art_13.png)
 *Figure: Large Language Models (LLMs)*
 
 So, let's say you asked one of these LLMs to write a story about a dragon. The LLM would think really fast about all the dragon stories it has seen before and start picking out word LEGO blocks to build its own dragon tale. It might say, "Once upon a time, in a faraway land, there was a dragon who loved to dance." It can even make the story funny, scary, or exciting.
@@ -84,6 +87,7 @@ But how does the LLM know which LEGO blocks to pick? Well, it practices a lot! J
 For a chatbot, the LLM inside it uses its word blocks to figure out what you're saying and then decides how to answer you in a way that makes sense. If you've ever asked Siri, Alexa, or a robot on a website for help, you've talked to a chatbot!
 
 The coolest thing about LLMs? They never stop learning. They keep reading more words and sentences from the world and get better at helping, chatting, and even making jokes. And just like you learn from your friends, LLMs learn from talking to people all over the world. That's why they can be such great helpers—whether you're writing a school report about the planets or just want to hear a good knock-knock joke.
+
 
 ## Alan Turing and the Turing Test
 
