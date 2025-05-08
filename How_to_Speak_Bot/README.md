@@ -362,6 +362,8 @@ Prompt engineering is not merely a technical skill but a critical component of t
 
 ### The Role of Jargon
 
+REVISIT
+
 Professor Smartypants proceeds to detail the significance of jargon in both realms, emphasizing its contribution to clarity, precision, and effectiveness. "In the spheres of both prompt engineering and traditional programming," she explains, "the employment of jargon and unequivocal language is pivotal. However, their relevance and application diverge, mirroring the intrinsic differences in flexibility, interpretation, and error tolerance between these domains."
 
 #### Importance in Traditional Programming
