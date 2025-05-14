@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this take-home midterm, you will engage in an extended conversation with a large language model over the next six weeks, exploring the boundary between artificial and human intelligence. Your task is to investigate what can and cannot be simulated through this "Frankensteinian reanimation of our collective dead letters." The conversation should progressively deepen as you revisit it at least twice weekly, culminating in a final submission that includes both the raw conversation transcript and your analytical response.
+In this take-home midterm, you will engage in an extended conversation with a large language model over the next six weeks, exploring the boundary between artificial and human intelligence. Your task is to investigate what can and cannot be simulated through a long conversation with a LLM. This converrsation should progressively deepen as you revisit it at least twice weekly, culminating in a final submission that includes both the raw conversation transcript and your analytical response.
 
 ## Assignment Details
 
