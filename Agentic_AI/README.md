@@ -1,7 +1,6 @@
 # Lecture: What Is Agentic AI?
 
-These are lecture notes for Nik Bear Brown's July 9, 2025 Northeastern course
-* INFO 7375  Prompt Engineering for Generative AI*
+These are lecture notes for Nik Bear Brown's July 9, 2025 Northeastern course _INFO 7375  Prompt Engineering for Generative AI_
 
 **What Is Agentic AI?**
 Agentic AI represents the next frontier in artificial intelligence—systems that use sophisticated reasoning and iterative planning to autonomously solve complex, multi-step problems. Unlike traditional AI chatbots that simply provide responses based on single interactions, agentic AI can independently analyze challenges, develop strategies, and execute tasks by ingesting vast amounts of data from multiple sources and third-party applications.
