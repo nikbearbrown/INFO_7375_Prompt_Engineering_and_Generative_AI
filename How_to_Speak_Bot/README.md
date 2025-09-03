@@ -1,6 +1,4 @@
 # How to Speak Bot: Prompt Patterns
-*By Nik Bear Brown*  
-*March 2024*
 
 ## Preface
 This is the preface of the book where the purpose and scope of the book are discussed.
