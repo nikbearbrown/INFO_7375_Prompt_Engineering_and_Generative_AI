@@ -1,6 +1,20 @@
+# Template Pattern Tutorial: Using Wizard of Oz Characters in Midjourney
+
+## Understanding the Template Pattern
+
+The Template Pattern is a powerful approach for creating consistent, structured prompts for AI image generation. At its core, this pattern establishes a reusable framework with clearly defined placeholder elements that you can fill with different content while maintaining the same organizational structure.
+
+Think of it like a fill-in-the-blank form where the blank spaces represent specific aspects of what you want to generate. By using this consistent structure, you can:
+- Create a series of related images with consistent formatting
+- Easily modify individual elements without rewriting entire prompts
+- Ensure you don't forget important components in complex prompts
+- Quickly experiment with different creative directions
+
+Now let's explore this pattern using Wizard of Oz characters as our creative foundation!
+
 # Midjourney Patterns: The Wizard of Oz Character Guide
 by Nik Bear Brown
-May 5, 2024
+
 
 ## Introduction
 
@@ -418,4 +432,3 @@ The four friends approaching the Emerald City --ar 16:9 --stylize 750 --chaos 30
 5. **Know Your Realm**: Different versions respond differently to the same parameters, just as different parts of Oz have different rules
 
 Understanding these parameters will significantly improve your ability to generate exactly the Oz-inspired images you want, whether you're using the Parameter Pattern or Template Pattern approach described in this guide. Remember, like Dorothy's journey, the real magic was within you all along—these parameters just help bring it out!
-
