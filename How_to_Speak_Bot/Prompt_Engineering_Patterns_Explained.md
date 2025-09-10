@@ -1,6 +1,6 @@
 # Prompt Engineering Patterns Explained
 
-I'll explain each of these prompt engineering patterns and provide practical examples to show how they're used when working with AI assistants like me.
+
 
 ## 1. The Magical World of Wordsville
 
