@@ -1,5 +1,5 @@
 
-# Prompt_Architecture:_The_Power_of_the_Template_Pattern
+# Prompt Architecture Notebook
 
 **Instructor Example: Assignment Submission**
 
@@ -90,5 +90,59 @@ A series of four images (Dorothy, Scarecrow, Tin Man, Lion) all generated using 
 
 ---
 
-**Next Step for the Class:**
-Would you like me to demonstrate how "swapping" a single word in the **Style** slot (e.g., changing "Technicolor Film" to "Cyberpunk Anime") instantly transforms the entire Oz cast while keeping the template intact?
+# Glossary
+---
+
+## Glossary_01: {Subject} (The Heroes of Oz)
+
+*These represent the core focus of your image. They fill the first slot of your template.*
+
+| Variable | Description |
+| --- | --- |
+| **Dorothy Gale** | Young farm girl, blue gingham dress, braided hair, holding Toto. |
+| **The Scarecrow** | Tall, lanky, stuffed with straw, burlap face, patched clothing. |
+| **The Tin Man** | Riveted silver metal body, funnel hat, holding an oil can or axe. |
+| **The Cowardly Lion** | Large bipedal lion, thick mane, wearing a "Courage" medal. |
+| **The Wicked Witch** | Green skin, pointed black hat, long flowing black robes, broomstick. |
+
+---
+
+## Glossary_02: [Style] (The Artistic DNA)
+
+*These define the "look" of the entire series. When you swap these, the whole world changes.*
+
+| Variable | Visual Aesthetic |
+| --- | --- |
+| **1939 Technicolor** | High saturation, vibrant reds/yellows, cinematic grain, soft glow. |
+| **Whimsical Watercolor** | Soft edges, paper texture, pastel bleeding, hand-drawn ink lines. |
+| **Cyberpunk Neon** | Dark shadows, glowing pink/green lights, futuristic mechanical parts. |
+| **Gothic Horror** | High contrast, desaturated colors, sharp shadows, eerie atmosphere. |
+| **Studio Ghibli** | Clean lines, lush painted backgrounds, soft facial features, hand-painted feel. |
+
+---
+
+## Glossary_03: [Views] (Perspective & Framing)
+
+*Formerly "Camera Angles," these define how the viewer sees the character.*
+
+| Variable | Emotional Impact |
+| --- | --- |
+| **Heroic Low-View** | Looking up at the subject; makes them appear powerful and tall. |
+| **Vulnerable High-View** | Looking down at the subject; makes them appear small or in danger. |
+| **Close-Up Portrait** | Focuses on the face; emphasizes emotional expression and texture. |
+| **Wide-Angle Landscape** | Shows the character and their environment; great for the Yellow Brick Road. |
+| **Bird's-Eye View** | Looking straight down; useful for seeing the pattern of the Poppy Fields. |
+
+[Image diagram showing camera view types: low angle, high angle, and close up]
+
+---
+
+## Class Live Demo: "The Slot Machine"
+
+Show the students how the **Template Pattern** acts like a slot machine. You pull a lever and swap one glossary term for another:
+
+**Prompt Structure:**
+`{Subject} in the Emerald City, [Style], [Views]`
+
+* **Combo A:** `{Dorothy} in the Emerald City, [1939 Technicolor], [Heroic Low-View]`
+* **Combo B:** `{The Wicked Witch} in the Emerald City, [Cyberpunk Neon], [Vulnerable High-View]`
